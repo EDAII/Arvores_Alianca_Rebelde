@@ -1,5 +1,4 @@
-# Algoritmos_Arvores_Alianca_Rebelde
-## Star Wars: Aliança Rebelde – Floresta de Dados
+# Star Wars: Aliança Rebelde – Floresta de Dados
 
 <div align="center">
     Figura 1: Aliança Rebelde – Floresta de Dados
@@ -8,17 +7,6 @@
     <br>
     <br>
 </div>
-
-### Equilibrar para resistir!
-
-**"Aliança Rebelde – Floresta de Dados"** é um jogo de puzzle e simulação, em que o jogador assume o papel de **Analista de Estruturas da Rebelião**.  
-A Aliança está armazenando dados secretos e precisa mantê-los **organizados, balanceados e de acesso rápido**, mesmo sob ataque Imperial.  
-Para isso, você irá operar **árvores balanceadas**, garantindo que as informações permaneçam seguras e rapidamente acessíveis.
-
-Cada desafio do jogo é uma simulação interativa que mostra como **árvores Rubro-Negras e AVL** mantêm o equilíbrio da Rebelião.  
-A narrativa segue o universo de Star Wars, com uma abordagem didática e lúdica para o aprendizado de Estruturas de Dados.
-
-Para compreender melhor sobre o jogo, suas missões e a relação com as estruturas de dados, acesse a [Descrição](Descricao.md).
 
 **Número da Lista:** 3  
 **Conteúdo da Disciplina:** Árvores Balanceadas  
@@ -31,6 +19,19 @@ Para compreender melhor sobre o jogo, suas missões e a relação com as estrutu
 | 21/1029497 | Mylena Angélica Silva Farias |
 <br>
 
+
+### Equilibrar para resistir!
+
+**"Aliança Rebelde – Floresta de Dados"** é um jogo de puzzle e simulação, em que o jogador assume o papel de **Analista de Estruturas da Rebelião**.  
+A Aliança está armazenando dados secretos e precisa mantê-los **organizados, balanceados e de acesso rápido**, mesmo sob ataque Imperial.  
+Para isso, você irá operar **árvores balanceadas**, garantindo que as informações permaneçam seguras e rapidamente acessíveis.
+
+Cada desafio do jogo é uma simulação interativa que mostra como **árvores Rubro-Negras e AVL** mantêm o equilíbrio da Rebelião.  
+A narrativa segue o universo de Star Wars, com uma abordagem didática e lúdica para o aprendizado de Estruturas de Dados.
+
+Para compreender melhor sobre o jogo, suas missões e a relação com as estruturas de dados, acesse a [Descrição](Descricao.md).
+
+
 ## Inspiração
 
 Este projeto é a continuidade do universo criado pelas estudantes em módulos anteriores da saga **Aliança Rebelde**, que exploram os algoritmos de forma narrativa e visual.  
@@ -39,9 +40,13 @@ As **árvores balanceadas** são a chave para manter o sistema rebelde funcionan
 
 Os repositórios anteriores podem ser acessados nos links abaixo:
 
+**Projeto de algoritmos**
+
 - [Greed – Aliança Rebelde](https://github.com/projeto-de-algoritmos-2025/Greed_Alianca_Rebelde)  
 - [Divide and Conquer – Aliança Rebelde 2](https://github.com/projeto-de-algoritmos-2025/DC_Alianca_Rebelde_2)  
-- [Programação Dinâmica – Aliança Rebelde: Confronto Final](https://github.com/projeto-de-algoritmos-2025/PD_Alianca_Rebelde_Confronto_Final)  
+- [Programação Dinâmica – Aliança Rebelde: Confronto Final](https://github.com/projeto-de-algoritmos-2025/PD_Alianca_Rebelde_Confronto_Final)
+
+**Estrutura de dados 2**
 - [Algoritmos de Busca – Aliança Rebelde](https://github.com/EDAII/Algoritmos_Busca_Alianca_Rebelde)  
 - [Algoritmos de Ordenação – Aliança Rebelde](https://github.com/EDAII/Algoritmos_Ordenacao_Alianca_Rebelde)  
 <br>
@@ -81,9 +86,9 @@ Se a estrutura ficar desbalanceada, os acessos se tornam lentos e vulneráveis �
 As árvores rubro-negras mantêm o sistema com **altura controlada**, garantindo **buscas rápidas e seguras**.
 
 <div align="center">
-    Figura 2: Inserção em árvore Rubro-Negra
+    Figura 2: Introdução Missão 1
     <br>
-    <img src="https://github.com/EDAII/Algoritmos_Arvores_Alianca_Rebelde/blob/main/CapturasTela/arvore_rb1.png?raw=true" width="500">
+    <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-intro-arvores.png?raw=true" width="500">
     <br><br>
 </div>
 
@@ -101,13 +106,6 @@ Gerenciar dados da base rebelde em Endor, mantendo o equilíbrio a cada inserç�
 A base de Endor está expandindo e armazenando dados de recursos como naves, combustível e escudos.  
 Para garantir eficiência, utiliza-se uma **árvore AVL**, que reequilibra a estrutura sempre que o fator de balanceamento ultrapassa ±1.  
 O jogador acompanha as inserções passo a passo e vê as rotações acontecerem.
-
-<div align="center">
-    Figura 3: Árvore AVL – Rotações automáticas
-    <br>
-    <img src="https://github.com/EDAII/Algoritmos_Arvores_Alianca_Rebelde/blob/main/CapturasTela/arvore_avl1.png?raw=true" width="500">
-    <br><br>
-</div>
 
 ---
 
@@ -135,27 +133,36 @@ Esses dados são convertidos em **chaves numéricas ou textuais**, usadas nas in
 <div align="center">
     Figura 4: Introdução do jogo
     <br>
-    <img src="" width="500">
+    <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/intro-arvores.png?raw=true" width="500">
     <br><br>
 </div>
 
 ### Missão 1 – Rubro-Negra
 
 <div align="center">
-    Figura 5: Inserção e recoloração na árvore Rubro-Negra
+    Figura 4: Fase 1-Inserção e recoloração na árvore Rubro-Negra
     <br>
-    <img src="" width="500">
+    <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase1-arvores.png?raw=true" width="500">
+    <br><br>
+</div>
+
+<div align="center">
+    Figura 5: Fase 2- Conflitos de cor
+    <br>
+    <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase2-arvores.png?raw=true" width="500">
+    <br><br>
+</div>
+
+<div align="center">
+    Figura 6: Fase 3-Rotações 
+    <br>
+    <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase3-arvores.png?raw=true" width="500">
     <br><br>
 </div>
 
 ### Missão 2 – AVL
 
-<div align="center">
-    Figura 6: Balanceamento dinâmico na árvore AVL
-    <br>
-    <img src="" width="500">
-    <br><br>
-</div>
+
 
 ### Finalização
 
