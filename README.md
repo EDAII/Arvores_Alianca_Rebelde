@@ -107,6 +107,13 @@ A base de Endor está expandindo e armazenando dados de recursos como naves, com
 Para garantir eficiência, utiliza-se uma **árvore AVL**, que reequilibra a estrutura sempre que o fator de balanceamento ultrapassa ±1.  
 O jogador acompanha as inserções passo a passo e vê as rotações acontecerem.
 
+<div align="center">
+    Figura 3: Introdução Missão 2
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-intro-arvores.png" width="500">
+    <br><br>
+</div>
+
 ---
 
 ## Dados Utilizados
@@ -140,21 +147,21 @@ Esses dados são convertidos em **chaves numéricas ou textuais**, usadas nas in
 ### Missão 1 – Rubro-Negra
 
 <div align="center">
-    Figura 4: Fase 1-Inserção e recoloração na árvore Rubro-Negra
+    Figura 5: Fase 1-Inserção e recoloração na árvore Rubro-Negra
     <br>
     <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase1-arvores.png?raw=true" width="500">
     <br><br>
 </div>
 
 <div align="center">
-    Figura 5: Fase 2- Conflitos de cor
+    Figura 6: Fase 2- Conflitos de cor
     <br>
     <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase2-arvores.png?raw=true" width="500">
     <br><br>
 </div>
 
 <div align="center">
-    Figura 6: Fase 3-Rotações 
+    Figura 7: Fase 3-Rotações 
     <br>
     <img src="https://github.com/EDAII/Arvores_Alianca_Rebelde/blob/main/screenshots/missao1-fase3-arvores.png?raw=true" width="500">
     <br><br>
@@ -162,7 +169,42 @@ Esses dados são convertidos em **chaves numéricas ou textuais**, usadas nas in
 
 ### Missão 2 – AVL
 
+<div align="center">
+    Figura 8: Fase 1
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-fase1-arvores.png" width="500">
+    <br><br>
+</div>
 
+<div align="center">
+    Figura 9: Dicas
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-fase2-arvores.png" width="500">
+    <br><br>
+</div>
+
+
+<div align="center">
+    Figura 8: Fase 2
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-fase3-arvores.png" width="500">
+    <br><br>
+</div>
+
+<div align="center">
+    Figura 8: Fase 3
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-fase4-arvores.png" width="500">
+    <br><br>
+</div>
+
+
+<div align="center">
+    Figura 8: Fase 4
+    <br>
+    <img src="https://raw.githubusercontent.com/EDAII/Arvores_Alianca_Rebelde/refs/heads/main/screenshots/missao2-fase5-arvores.png" width="500">
+    <br><br>
+</div>
 
 ### Finalização
 
