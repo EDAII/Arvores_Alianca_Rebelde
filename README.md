@@ -206,16 +206,7 @@ Esses dados são convertidos em **chaves numéricas ou textuais**, usadas nas in
     <br><br>
 </div>
 
-### Finalização
 
-<div align="center">
-    Figura 7: Missão concluída – Estrutura equilibrada
-    <br>
-    <img src="" width="500">
-    <br><br>
-</div>
-
----
 
 ## Instalação
 
