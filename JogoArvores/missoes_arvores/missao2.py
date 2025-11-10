@@ -247,7 +247,7 @@ class Missao2:
         
         elif self.acao_atual == 'R':
             if valor in self.lista_inseridos:
-                self.lbl_status.config(text=f"🔴 ATAQUE IMPERIAL! Código de Recurso {valor} PERDIDO. Reorganizando frota de dados...", fg=self.cor_alerta_cmd)
+                self.lbl_status.config(text=f"ATAQUE IMPERIAL! Código de Recurso {valor} PERDIDO. Reorganizando frota de dados...", fg=self.cor_alerta_cmd)
                 self.lista_inseridos.remove(valor)
             else:
                  self.lbl_status.config(text=f"AVISO: Código {valor} não encontrado, ataque falhou. Avançando...", fg=self.cor_titulo)
@@ -284,7 +284,7 @@ class Missao2:
 
 
             self.lbl_status.config(
-                text=f"🚨 ALERTA CRÍTICO! A ESTABILIDADE DO COMANDO CAIU! FB +/-2 em {self.no_desbalanceado_valor}.",
+                text=f"ALERTA CRÍTICO! A ESTABILIDADE DO COMANDO CAIU! FB +/-2 em {self.no_desbalanceado_valor}.",
                 fg=self.cor_alerta_cmd
             )
             self._mostrar_passo_a_passo_crise()
