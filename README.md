@@ -129,7 +129,7 @@ Esses dados são convertidos em **chaves numéricas ou textuais**, usadas nas in
 
 ## Link do vídeo
 
-[Assista ao vídeo aqui](#)
+[Assista ao vídeo aqui](https://www.youtube.com/watch?v=T8YVo-bmBDw)
 
 <br>
 
